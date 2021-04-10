@@ -1,0 +1,53 @@
+body
+{
+    font-family: "Lato" , sans-serif;
+    margin: 70px 0px;
+    
+}
+h1
+{
+    color: #9E52CA;
+    text-align: left;
+    font-weight: bold;
+    width: 700px;
+    text-transform: uppercase;
+    margin: 0 auto 20px auto;
+    border-bottom: 8px solid #A7ADB4;
+    border-right: 8px solid #A7ADB4;
+    padding-bottom: 20px;  
+}
+#contact-form
+{
+    font-size: 20px;
+    padding: 40px;
+}
+.red
+{
+    text-align: center;
+    border-left: 8px solid red;
+    margin: 0 auto 20px auto;
+    width: 600px;
+    padding-left: 40px;
+}
+h3
+{
+    margin: 20px auto 20px auto;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: 50px;
+}
+h2
+{
+    border: 1px solid purple;
+    margin: 10px auto 50px auto;
+    box-shadow: 6px 6px 6px grey;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.left
+{
+    float:left;
+    margin: 0 10px 0 20px;
+}
+
